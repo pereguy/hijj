@@ -52,21 +52,7 @@
                 "6": 2548, 
                 "8": 38954, 
                 "all": 374255
-            }, 
-            "friends": [
-                {
-                "id": 1,
-                "name": "afi_fab9_power_bcg"
-                } ,
-                {   
-                "id": 2,
-                "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg"
-                },
-                {
-                "id": 3,
-                "name": ""
-                }
-            ]
+            }
         }, 
         {
             "id": 1,
@@ -121,13 +107,7 @@
                 "6": 0, 
                 "8": 0, 
                 "all": 4
-            },
-            "friends": [
-                {
-                "id": 0,
-                "name": "top"
-                } ,
-            ] 
+            }
         }, 
         {
             "id": 2,
@@ -182,7 +162,7 @@
                 "6": 0, 
                 "8": 0, 
                 "all": 4
-            }, 
+            } 
         }, 
         {
             "id": 3,
