@@ -1,6 +1,7 @@
 [
         {
             "id": 0,
+            "level": 0,
             "isActive": true,
             "name": "top",
             "_name": {
@@ -70,6 +71,7 @@
         }, 
         {
             "id": 1,
+            "level": 1,
             "isActive": true,
             "name": "afi_fab9_power_bcg",
             "_name": {
@@ -139,6 +141,7 @@
         }, 
         {
             "id": 2,
+            "level": 0,
             "isActive": true,
             "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg",
             "_name": {
@@ -194,6 +197,7 @@
         }, 
         {
             "id": 3,
+            "level": 1,
             "isActive": true,
             "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg/dev_blken_sync_0",
             "_name": {
