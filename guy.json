@@ -7,7 +7,7 @@
             "_name": {
                 "myName": "top",
                 "parent_name": "", 
-                "ref_name": "pd_fab9_afx"
+                "ref_name": "pd_"
             },
             "area": {
                 "all": 0.0, 
@@ -73,11 +73,11 @@
             "id": 1,
             "level": 1,
             "isActive": true,
-            "name": "afi_fab9_power_bcg",
+            "name": "ppddp1g/11",
             "_name": {
-                "myName": "afi_fab9_power_bcg",
+                "myName": "ppddpdp",
                 "parent_name": "top", 
-                "ref_name": "pd_fab9_afx_afi_fab_sync_slv_bcg_v01"
+                "ref_name": "ppdpdpd/111"
             },
             "area": {
                 "all": 0.0, 
@@ -131,7 +131,7 @@
             },
             {
                 "id": 2,
-                "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg"
+                "name": "ppddppd/111/22"
             },
             {
                 "id": 1,
@@ -143,11 +143,11 @@
             "id": 2,
             "level": 0,
             "isActive": true,
-            "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg",
+            "name": "ppddpp/1111111/22222",
             "_name": {
-                "myName": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg",
-                "parent_name": "afi_fab9_power_bcg", 
-                "ref_name": "pd_fab9_afx_pmgr_slv_bcg_NUM_CLKS1_SYNC_DEPTH2_SYNC_EN0"
+                "myName": "ppddpdd/11111/22222/1",
+                "parent_name": "ppddpd", 
+                "ref_name": "ppddppddldmdnddkd,dem"
             },
             "area": {
                 "all": 20.3, 
@@ -199,11 +199,11 @@
             "id": 3,
             "level": 1,
             "isActive": true,
-            "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg/dev_blken_sync_0",
+            "name": "ppddpd131/22222/333333",
             "_name": {
-                    "myName": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg/dev_blken_sync_0",
-                    "parent_name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg", 
-                    "ref_name": "pd_fab9_afx_sync_adl_WIDTH1_DEPTH2_RESET0_SET0_ASYNC_SR0_1"
+                    "myName": "ppddpd131/22222/333333",
+                    "parent_name": "ppddpd131/22222", 
+                    "ref_name": "ppddppdd1/2/3/4"
             },
             "area": {
                 "all": 87.0, 
