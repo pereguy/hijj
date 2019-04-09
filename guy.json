@@ -1,0 +1,242 @@
+[
+        {
+            "id": 0,
+            "isActive": true,
+            "name": "top",
+            "_name": {
+                "myName": "top",
+                "parent_name": "", 
+                "ref_name": "pd_fab9_afx"
+            },
+            "area": {
+                "all": 0.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "cells_num": {
+                "all": 604901, 
+                "buf/inv": 106186, 
+                "d+8": 7940, 
+                "d4+": 23012, 
+                "lvt_l6": 449421, 
+                "lvtll_l6": 2577, 
+                "macro": 4, 
+                "std": 604897, 
+                "ulvt_l6": 146325, 
+                "ulvtll_l6": 6574
+            }, 
+            "leakage": {
+                "all": 0.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "num_ff_bits": {
+                "1": 25273, 
+                "12": 0, 
+                "2": 5435, 
+                "4": 2798, 
+                "6": 2548, 
+                "8": 38954, 
+                "all": 374255
+            }, 
+            "friends": [
+                {
+                "id": 1,
+                "name": "afi_fab9_power_bcg"
+                } ,
+                {   
+                "id": 2,
+                "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg"
+                },
+                {
+                "id": 3,
+                "name": ""
+                }
+            ]
+        }, 
+        {
+            "id": 1,
+            "isActive": true,
+            "name": "afi_fab9_power_bcg",
+            "_name": {
+                "myName": "afi_fab9_power_bcg",
+                "parent_name": "top", 
+                "ref_name": "pd_fab9_afx_afi_fab_sync_slv_bcg_v01"
+            },
+            "area": {
+                "all": 0.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "cells_num": {
+                "all": 17, 
+                "buf/inv": 5, 
+                "d+8": 0, 
+                "d4+": 1, 
+                "lvt_l6": 14, 
+                "lvtll_l6": 2, 
+                "macro": 0, 
+                "std": 17, 
+                "ulvt_l6": 0, 
+                "ulvtll_l6": 1
+            }, 
+            "leakage": {
+                "all": 0.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "num_ff_bits": {
+                "1": 4, 
+                "12": 0, 
+                "2": 0, 
+                "4": 0, 
+                "6": 0, 
+                "8": 0, 
+                "all": 4
+            },
+            "friends": [
+                {
+                "id": 0,
+                "name": "top"
+                } ,
+            ] 
+        }, 
+        {
+            "id": 2,
+            "isActive": true,
+            "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg",
+            "_name": {
+                "myName": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg",
+                "parent_name": "afi_fab9_power_bcg", 
+                "ref_name": "pd_fab9_afx_pmgr_slv_bcg_NUM_CLKS1_SYNC_DEPTH2_SYNC_EN0"
+            },
+            "area": {
+                "all": 20.3, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "cells_num": {
+                "all": 17, 
+                "buf/inv": 5, 
+                "d+8": 0, 
+                "d4+": 1, 
+                "lvt_l6": 14, 
+                "lvtll_l6": 2, 
+                "macro": 0, 
+                "std": 17, 
+                "ulvt_l6": 0, 
+                "ulvtll_l6": 1
+            }, 
+            "leakage": {
+                "all": 7.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "num_ff_bits": {
+                "1": 4, 
+                "12": 0, 
+                "2": 0, 
+                "4": 0, 
+                "6": 0, 
+                "8": 0, 
+                "all": 4
+            }, 
+        }, 
+        {
+            "id": 3,
+            "isActive": true,
+            "name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg/dev_blken_sync_0",
+            "_name": {
+                    "myName": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg/dev_blken_sync_0",
+                    "parent_name": "afi_fab9_power_bcg/afi_fab_sync_slv_slv_sync_bcg", 
+                    "ref_name": "pd_fab9_afx_sync_adl_WIDTH1_DEPTH2_RESET0_SET0_ASYNC_SR0_1"
+            },
+            "area": {
+                "all": 87.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "cells_num": {
+                "all": 7, 
+                "buf/inv": 1, 
+                "d+8": 0, 
+                "d4+": 0, 
+                "lvt_l6": 6, 
+                "lvtll_l6": 1, 
+                "macro": 0, 
+                "std": 7, 
+                "ulvt_l6": 0, 
+                "ulvtll_l6": 0
+            }, 
+            "leakage": {
+                "all": 22.0, 
+                "buf/inv": 0.0, 
+                "d+8": 0.0, 
+                "d4+": 0.0, 
+                "lvt_l6": 0.0, 
+                "lvtll_l6": 0.0, 
+                "macro": 0.0, 
+                "std": 0.0, 
+                "ulvt_l6": 0.0, 
+                "ulvtll_l6": 0.0
+            }, 
+            "num_ff_bits": {
+                "1": 2, 
+                "12": 0, 
+                "2": 0, 
+                "4": 0, 
+                "6": 0, 
+                "8": 0, 
+                "all": 2
+            }, 
+        }, 
+]
